@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moslide2
+- 👋 Hi, I’m Mourad Fouadla
 - 👀 I’m interested in learning my job as computer system and network technician
 - 🌱 I’m currently learning it at the Greta in Lyon
 - 💞️ I’m looking to collaborate on creating a project 
